@@ -1,0 +1,112 @@
+body {
+    margin: 15px;
+    background-color: #EDF4F4;
+  }
+
+  .head {
+    margin-top: 40px;
+  }
+
+  .body-block {
+    margin-top: 25px;
+  }
+
+  .left {
+    background: #3F4039;
+    height: 40px;
+    width: 95%;
+  }
+
+  .left h4 {
+    color: white;
+  }
+
+  div.logo {
+    position: absolute;
+    top: 15%;
+    left: 10%;
+  }
+
+  div.logo img {
+    background-color: transparent;
+    border: none;
+  }
+
+  .left-block {
+    background-color: #373A31;
+    color: #575853;
+    padding: 0 0 5px 0;
+    height: 100%;
+  }
+
+  .left-block h4 {
+    margin: 0 0 auto 0;
+  }
+
+  .head-line {
+    background-color: #CDB024;
+    height: 20px;
+  }
+
+  .left-block span,
+  p {
+    display: inline-block;
+    padding: 15px 10px 10px 10px;
+  }
+
+  .left-block p:last-child {
+    padding: 10px 10px 0 10px;
+  }
+
+  .left-block ul {
+    display: inline-block;
+    padding: 15px 10px 15px 40px;
+  }
+
+  .education span {
+    color: white;
+    font-weight: bold;
+  }
+
+  .word-break-all {
+    word-break: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+  }
+
+  div.line-logo {
+    height: 100%;
+    text-align: center;
+  }
+
+  div.line-logo span {
+    font-weight: bold;
+  }
+
+  .right {
+    background-color: #D3BA2C;
+    height: 40px;
+    float: right;
+    width: 5%;
+  }
+
+  .right-block .form-group {
+    margin-top: 15px;
+  }
+
+  .body-block .left-block div.text-center {
+    background-color: #D3BA2C;
+    height: 40px;
+  }
+
+  .body-block .right-block #footer p:last-child {
+    float: right;
+  }
+
+  div.right-block #profile .left h4{
+    margin-top: 0; 
+  }
+
+  div.right-block #profile p{
+    margin-top: 10px; 
+  }
